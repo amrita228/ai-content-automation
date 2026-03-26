@@ -1,14 +1,27 @@
-# AI Content Automation 🚀
+# 🚀 AI Content Automation
 
-This project generates:
-- YouTube Scripts
-- Instagram Captions
-- Content Ideas
+An AI-powered content generation tool that creates:
 
-Built using:
+- 🎬 YouTube Scripts  
+- 📱 Instagram Captions  
+- 💡 Content Ideas  
+
+---
+
+## ✨ Features
+- Demo Mode (No API required)
+- Live Mode (API supported)
+- Clean and simple UI
+
+---
+
+## 🛠 Tech Stack
 - Python
 - Streamlit
 
-Modes:
-- Demo Mode (no API required)
-- Live Mode (API based)
+---
+
+## ▶️ How to Run
+
+```bash
+streamlit run app.py
