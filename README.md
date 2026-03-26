@@ -1,7 +1,14 @@
-echo "# ai-content-automation" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/amrita228/ai-content-automation.git
-git push -u origin main
+# AI Content Automation 🚀
+
+This project generates:
+- YouTube Scripts
+- Instagram Captions
+- Content Ideas
+
+Built using:
+- Python
+- Streamlit
+
+Modes:
+- Demo Mode (no API required)
+- Live Mode (API based)
